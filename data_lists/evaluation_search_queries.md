@@ -1,0 +1,110 @@
+# User Search Queries by Specificity
+
+## General Queries
+
+- I want to improve my overall well-being.
+- I want to feel happier day-to-day.
+- I want to boost my energy levels.
+- I want to get healthier.
+- I want to improve my mental state.
+- I want to be more organized in life.
+- I want to develop better habits.
+- I want to feel less anxious.
+- I want to improve my focus.
+- I want to take better care of myself.
+- I want to be more mindful.
+- I want to reduce negativity.
+- I want to build my confidence.
+- I want to learn new things.
+- I want to be more creative.
+- I want to improve my relationships.
+- I want to manage my finances better.
+- I want to sleep better.
+- I want to feel more connected.
+- I want to be more present.
+- I want to improve my physical health.
+- I want to simplify my life.
+- I want to be more disciplined.
+- I want to find more joy.
+- I want to be kinder to myself.
+- I want to feel more grounded.
+- I want to increase my motivation.
+- I want to improve my general knowledge.
+- I want to feel more fulfilled.
+- I want to manage my daily routine better.
+
+## Fairly Specific Queries
+
+- I want to cultivate a sense of inner calm and mindfulness.
+- I want to improve my physical flexibility and reduce muscle tension.
+- I want to stay properly hydrated.
+- I want to gain greater self-awareness and process my thoughts/feelings.
+- I want to simplify my weekly meal preparation.
+- I want to establish a more relaxing pre-sleep routine.
+- I want to cultivate a greater sense of gratitude.
+- I want to incorporate more low-impact physical activity into my life.
+- I want to make reading a regular part of my life.
+- I want to achieve a tidier, more organized living space.
+- I want to gain better control over my spending.
+- I want to have a less rushed morning routine.
+- I want to improve my active listening skills.
+- I want to eat a diet with fewer processed foods.
+- I want to expand my vocabulary.
+- I want to learn techniques to manage stress in the moment.
+- I want to feel more organized and in control of my workday.
+- I want to reduce my reliance on social media.
+- I want to strengthen my connections with friends and family.
+- I want to master a specific relaxation technique.
+- I want to eat more vegetables regularly.
+- I want to learn basic drawing techniques.
+- I want to improve my flexibility.
+- I want to make steady progress on decluttering my home.
+- I want to live more intentionally.
+- I want to improve my time management at work.
+- I want to learn basic budgeting principles.
+- I want to cultivate a more positive self-view.
+- I want to lower my caffeine intake.
+- I want to learn to identify different types of birds by sight.
+- I want to get better at cooking basic sauces.
+- I want to improve my handwriting.
+- I want to learn useful keyboard shortcuts for my main software.
+- I want to be more mindful while eating.
+- I want to reduce impulse spending.
+- I want to learn basic photo editing.
+- I want to build foundational physical strength.
+- I want to improve my sleep hygiene.
+- I want to broaden my knowledge of history.
+- I want to become better at giving constructive feedback.
+
+## Ultra Specific Queries
+
+- I want to be able to identify the first 100 basic Kanji characters.
+- I want to improve my piano playing technique.
+- I want to be able to hold a plank for 2 minutes.
+- I want to understand basic Python syntax for data analysis.
+- I want to become a proficient touch typist.
+- I want to be able to bake sourdough bread from scratch.
+- I want to master the 5 basic mother sauces in French cuisine.
+- I want to have the periodic table elements memorized.
+- I want to improve my ability to draw realistic human eyes.
+- I want to be proficient with common Git commands for version control.
+- I want my dog to reliably obey the 'stay' command.
+- I want to be able to solve a Rubik's cube.
+- I want to accurately conjugate common Spanish verbs.
+- I want to finish writing my first novel.
+- I want to be able to create basic 3D models using Blender.
+- I want to understand the fundamentals of lock picking.
+- I want to know the rules and basic strategy of Chess.
+- I want to be able to do 20 consecutive push-ups.
+- I want to be able to write basic SQL queries for database interaction.
+- I want to experience lucid dreaming.
+- I want to be able to identify 10 common constellations in the night sky.
+- I want to master the basic knit and purl stitches in knitting.
+- I want to be able to form basic calligraphy strokes correctly.
+- I want to improve my singing pitch accuracy.
+- I want to understand how to use React hooks effectively in development.
+- I want to be able to juggle three balls consistently.
+- I want to have the NATO phonetic alphabet memorized.
+- I want to achieve my first unassisted pull-up.
+- I want to be able to perform a few basic card magic tricks.
+- I want to become efficient at assembling flat-pack furniture.
