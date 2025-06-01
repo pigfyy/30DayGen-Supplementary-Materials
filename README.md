@@ -1,6 +1,6 @@
-# Supplementary Materials for "30DayGen: Leveraging LLMs to Create Content Corpora for Niche Domains"
+# Supplementary Materials for "Leveraging LLMs to Create Content Corpora for Niche Domains"
 
-This repository contains supplementary materials for our paper, "30DayGen: Leveraging LLMs to Create Content Corpora for Niche Domains"
+This repository contains supplementary materials for our paper, "Leveraging LLMs to Create Content Corpora for Niche Domains"
 
 ## Repository Structure
 
