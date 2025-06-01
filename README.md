@@ -5,7 +5,7 @@ This repository contains supplementary materials for our paper, "30DayGen: Lever
 ## Repository Structure
 
 - **/prompts**: Contains the full text of Large Language Model (LLM) prompts used for various stages of the 30DAYGEN system, including:
-  - `webpage_filtering_prompt.txt`: LLM prompt for filtering relevant webpages.
+  - `webpage_filtering_prompt.md`: LLM prompt for filtering relevant webpages.
   - `challenge_extraction_prompt.txt`: LLM prompt for extracting and formatting challenges.
   - `duplicate_judgment_prompt.txt`: LLM prompt for identifying duplicate challenges.
   - `search_validation_prompt.txt`: LLM prompt for validating search results at runtime.
